@@ -1,0 +1,9 @@
+*
+
+!.gitattributes
+!.gitignore
+!.gitmodules
+!.vscode
+!.vscode/**
+!LICENSE
+!README.md
